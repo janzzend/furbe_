@@ -53,10 +53,10 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBVj7TrKicZxBx9EugFatMi0KIDS3m7iUw',
-    appId: '1:951916052078:android:d2a7ce7309cd6d1b15b07f',
-    messagingSenderId: '951916052078',
-    projectId: 'furbe-app',
-    storageBucket: 'furbe-app.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 }
