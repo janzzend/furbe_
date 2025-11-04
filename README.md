@@ -13,8 +13,7 @@ FurBe is a Flutter mobile app that detects a dog’s emotion in real time using 
 - 🧮 **Bagged decisions**: averages softmax across **10 frames** before finalizing a mood
 - ✅ **Confidence gating**: only save results with **≥ 60%** confidence (configurable)
 - 📊 **Analysis view** with daily logs, calendar overview, and notes
-- 📚 **Articles screen** linking to curated learning resources
-- 👤 **Profiles** for dogs (name, gender, breed, birthdate, photo)
+- 👤 **Profiles** for dogs (name, gender, breed, photo)
 
 ---
 
